@@ -1,4 +1,4 @@
 import cpp
 from Function f
-where f.getName() = "memcopy"
+where f.getName() = "memcpy"
 select f, "dis prints yo"
